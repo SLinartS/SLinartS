@@ -4,10 +4,8 @@
   <b>Welcome to my page!</b>
   <br>
   <br>
-  <i>
-      I'm Dmitriy, a student from Russia.<br>
-      Currently learning web development.<br>
-  </i>
+  I'm Dmitriy, a student from Russia.<br>
+  Currently learning web development.<br>
 </p>
 
 <p align="center">
