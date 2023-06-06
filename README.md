@@ -8,8 +8,17 @@
   Currently learning web development.<br>
 </p>
 
-<p align="center">
-  <img src="https://github.com/SLinartS/SLinartS/assets/91159369/a80056cd-cd60-4e05-8267-ef1e6c1bfa96" width=700/>
+<p align="center" width="100">
+  <details>
+  <a href="https://github.com/SLinartS">
+    <img src="https://github.com/SLinartS/PersonalFinance/assets/91159369/4638c836-a15a-4534-9c4a-efbbe1c7e180" width=200/>
+  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SLinartS&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SLinartS&hide_border=true&card_width=338&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SLinartS&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLinartS&&size_weight=0.5&count_weight=0.5&hide=html,css,scss,vue,blade,dockerfile,makefile&hide_border=true&theme=transparent" />  
+ </details>
+
 </p>
 
 ### Languages
@@ -27,16 +36,19 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### State Managers
+
 ![MobX](https://img.shields.io/badge/mobx-f37f40?style=for-the-badge&logo=mobx&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vuex](https://img.shields.io/badge/vuex-%2335495e?style=for-the-badge&logo=vuex&logoColor=white)
 ![Pinia](https://img.shields.io/badge/pinia-ffd859?style=for-the-badge&logo=pinia&logoColor=white)
 
-### DBMS 
+### DBMS
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Other Technologies
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
