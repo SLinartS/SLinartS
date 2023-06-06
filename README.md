@@ -13,7 +13,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SLinartS&theme=transparent" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SLinartS&hide_border=true&card_width=338&theme=transparent" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SLinartS&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLinartS&&size_weight=0.5&count_weight=0.5&hide=html,css,scss,vue,blade,dockerfile,makefile&hide_border=true&theme=transparent" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLinartS&size_weight=0.5&count_weight=0.5&hide=html,css,scss,vue,blade,dockerfile,makefile&hide_border=true&theme=transparent" />  
  </details>
 </p>
 
