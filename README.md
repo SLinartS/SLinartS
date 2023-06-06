@@ -8,17 +8,13 @@
   Currently learning web development.<br>
 </p>
 
-<p align="center" width="100">
+<p align="center">
   <details>
-  <a href="https://github.com/SLinartS">
-    <img src="https://github.com/SLinartS/PersonalFinance/assets/91159369/4638c836-a15a-4534-9c4a-efbbe1c7e180" width=200/>
-  </a>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SLinartS&theme=transparent" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SLinartS&hide_border=true&card_width=338&theme=transparent" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SLinartS&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLinartS&&size_weight=0.5&count_weight=0.5&hide=html,css,scss,vue,blade,dockerfile,makefile&hide_border=true&theme=transparent" />  
  </details>
-
 </p>
 
 ### Languages
