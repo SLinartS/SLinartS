@@ -6,7 +6,7 @@
   <br>
   I'm Dmitriy, a student from Russia.<br>
   Currently learning web development.<br>
-  I'm unavailable. I'm going through urgent service 🪖<br>
+  I'm unavailable. In the army now 🪖<br>
 </p>
 
 <p align="center">
