@@ -4,9 +4,7 @@
   <b>Welcome to my page!</b>
   <br>
   <br>
-  I'm Dmitriy, a student from Russia.<br>
-  Currently learning web development.<br>
-  I'm unavailable. In the army now 🪖<br>
+  I'm Dmitriy, сurrently learning web development.<br>
 </p>
 
 <p align="center">
